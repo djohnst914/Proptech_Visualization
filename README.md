@@ -36,8 +36,7 @@ Do you have the PyViz ecosystem installed? If you are asking yourself what that 
         conda list hvplot
         conda list geoviews
 - You should see the following in your terminal after executing the 'conda list' commands: ![Screenshot 2023-04-24 at 2 50 43 PM](https://user-images.githubusercontent.com/123714457/234125164-7418215e-cc18-4670-95c6-d913da28800e.png)
-
-*Note ~ Make sure to use hvPlot version 0.7.0 or later!
+- Note ~ Make sure to use hvPlot version 0.7.0 or later!
 ---
 
 ## *Usage*
