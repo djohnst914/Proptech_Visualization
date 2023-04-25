@@ -52,7 +52,7 @@ Do you have the PyViz ecosystem installed? If you are asking yourself what that 
 
 - Once the jupyter notebook has fully loaded after running all cells, there are a few interactive graphs that the user can manipulate to better understand a trend or explore a hypothesis they might have. The graphs are relatively very user friendly, but if you find yourself having issues interacting with the them .. 
 
-- **[Configuring hvPlot Tools](https://docs.bokeh.org/en/2.4.0/docs/user_guide/tools.html)**
+-**[Configuring hvPlot Tools](https://docs.bokeh.org/en/2.4.0/docs/user_guide/tools.html)**
 
 ---
 
