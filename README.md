@@ -43,10 +43,7 @@ Do you have the PyViz ecosystem installed? If you are asking yourself what that 
 
 - With your mouse navigate near the top of the tab, select 'Kernel', then inside Kernel you'll select 'Restart Kernel and Run All Cells...' This will automatically run the whole program for you start to finish. FYI, it may take a few minutes for everything to load!
 <img width="400" alt="Screenshot 2023-04-17 at 2 53 35 PM" src="https://user-images.githubusercontent.com/123714457/232619135-6b2f77be-d543-4a59-a4ad-6e62b2113c6c.png">
-- Once the jupyter notebook has fully loaded after running all cells, there are a few interactive graphs that the user can manipulate to better understand a trend or explore a hypothesis they might have. The graphs are reltaively very user friendly, but if you find yourself having issues interacting with the them .. 
-
-
--**[Configuring hvPlot Tools](https://docs.bokeh.org/en/2.4.0/docs/user_guide/tools.html)**
+- Once the jupyter notebook has fully loaded after running all cells, there are a few interactive graphs that the user can manipulate to better understand a trend or explore a hypothesis they might have. The graphs are reltaively very user friendly, but if you find yourself having issues interacting with the them .. **[Configuring hvPlot Tools](https://docs.bokeh.org/en/2.4.0/docs/user_guide/tools.html)**
 
 ---
 
